@@ -3,6 +3,7 @@
 ### 1️ Clone the Repository
 
 git clone https://github.com/anshul52/File-Explorer-using-React-js.git
+
 cd file-explorer
 
 ### 2 Install Dependencies
